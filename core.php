@@ -5,7 +5,7 @@ Description: این افزونه به شما این امکان را می‌ده�
 Version: 2.0.0
 Author: پرتو گستر ویانا
 Author URI: https://viennaco.ir/
-Plugin URI: https://github.com/lordwebiran/Silica-Order
+Plugin URI: https://github.com/lordwebiran/plugin-Gold-Price
 */
 
 if (!defined('ABSPATH')) {
