@@ -1,0 +1,14 @@
+{
+    "name": "amir/vc-gold-price",
+    "authors": [
+        {
+            "name": "lordwebiran",
+            "email": "lordwebiran@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["includes/"]
+    }
+
+}

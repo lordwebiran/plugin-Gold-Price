@@ -1,0 +1,15 @@
+@font-face {
+    font-family: "VCA-font";
+    src: url("Vazir/en/Vazir.eot");
+    /* IE9 Compat Modes */
+    src: url("Vazir/en/Vazir.eot?#iefix") format("embedded-opentype"),
+        /* Super Modern Browsers */
+        url("Vazir/en/Vazir.woff") format("woff"),
+        /* Pretty Modern Browsers */
+        url("Vazir/en/Vazir.ttf") format("truetype");
+    /* Safari, Android, iOS */
+}
+
+.VCA-font {
+    font-family: "VCA-font" !important;
+}

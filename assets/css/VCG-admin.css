@@ -1,0 +1,38 @@
+:root {
+    --primary-text-color: #000;
+    --secondary-text-color: #fff;
+    --background-color-light: #CDB4DB;
+    --background-color-dark: #2EC4B6;
+    --warning-color: #E71D36;
+    --button-color: #FF9F1C;
+    --link-text-color: #5a5a5a;
+    --link-border-color: #FFAFCC;
+    --link-background-color: #FFC8DD;
+}
+
+[data-unique="VCG-settings"],
+[data-unique="VCG-settings"] h1,
+.csf-title h4,
+[data-unique="VCG-settings"] h2,
+[data-unique="VCG-settings"] h3,
+[data-unique="VCG-settings"] h4,
+[data-unique="VCG-settings"] h5,
+[data-unique="VCG-settings"] h6,
+[data-unique="VCG-settings"] p {
+    font-family: "VCA-font" !important;
+    font-size: 14px;
+}
+[data-unique="VCG-settings"] .csf-header-left h1 {
+    color: var(--secondary-text-color) !important;
+    font-size: 18px;
+}
+
+[data-unique="VCG-settings"] h1 span {
+    color: var(--button-color) !important;
+    font-size: 10px;
+}
+
+[data-unique="VCG-settings"] .csf-nav-normal+.csf-content {
+    margin-left: 0 !important;
+    margin-right: 225px !important;
+}

@@ -1,0 +1,502 @@
+input[type=date],
+input[type=email],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=url],
+select,
+textarea {
+  background-color: #fff !important;
+  color: #000 !important;
+}
+
+.VCA-font {
+  font-family: "VCA-font" !important;
+}
+
+.vc-heah {
+  background-color: black;
+  color: #fff;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  padding-bottom: 1px;
+}
+
+.vc-text-heah {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: #fff;
+  font-weight: 400 !important;
+}
+
+.vc-time {
+  text-align: left;
+  font-size: 12px;
+  position: absolute;
+  left: 10px;
+}
+
+.vc-hr {
+  background-color: #b8b8b8;
+  width: 100%;
+  height: 2px;
+  margin: 0;
+  padding: 0;
+}
+
+.vc-body {
+  background-color: black;
+  color: #fff;
+  text-align: center;
+  padding-bottom: 10px;
+}
+
+.vc-coler-gold {
+  color: #ba7809;
+  font-weight: 800;
+  font-size: 14px;
+}
+
+.vc-coler-gold div {
+  padding: 5px 0 5px 0;
+}
+
+.vc-body-row {
+  margin-bottom: 10px;
+  margin-top: 5px;
+}
+
+.vc-body-row div {
+  padding: 5px 0 5px 0;
+}
+
+.vc-body-border span {
+  border: #a1a1a1 solid 1px;
+  border-radius: 5px;
+  padding: 5px 30px;
+}
+
+.vc-body-border span a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.vc-footer {
+  width: 100%;
+  height: 15px;
+  background-color: black;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.vc-hb {
+  margin-top: 20px;
+  width: 100%;
+  height: 40px;
+  background-color: black;
+  border-top-right-radius: 15px;
+  border-top-left-radius: 15px;
+}
+
+.vc-body-b {
+  width: 100%;
+  background-color: black;
+  color: #fff;
+}
+
+.form-Order {
+  justify-content: center;
+  text-align: center;
+}
+
+.vc-body-b button {
+  width: 95% !important;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.vc-body-b input {
+  width: 95% !important;
+}
+
+.vc-bf {
+  margin-bottom: 20px;
+  width: 100%;
+  height: 20px;
+  background-color: black;
+  border-bottom-right-radius: 15px;
+  border-bottom-left-radius: 15px;
+}
+
+.vc-vc-orders-admin {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+.vc-order .vc-header,
+.vc-orders-admin .vc-header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  margin-top: 2em;
+  border-top-right-radius: 10px;
+  border-top-left-radius: 10px;
+  height: 40px;
+}
+
+.vc-order .row,
+.vc-orders-admin .row {
+  margin: 0px !important;
+}
+
+.vc-order .vc-header h2,
+.vc-orders-admin .vc-header h2 {
+  padding-top: 5px;
+  font-size: 20px;
+  margin: auto 0;
+  color: white;
+  font-weight: 400;
+}
+
+.vc-order .row .col-4 i,
+.vc-orders-admin .row .col-4 i {
+  font-size: 20px;
+}
+
+.vc-order .row .col-7,
+.vc-orders-admin .row .col-7 {
+  text-align: center;
+  margin: auto 0;
+}
+
+.vc-order .vc-header-row,
+.vc-orders-admin .vc-header-row {
+  background-color: black;
+  color: #ba7809;
+  font-weight: 800;
+  font-size: 14px;
+  padding: 5px 0;
+  text-align: center;
+  margin: auto 0;
+}
+
+.vc-order .vc-item-row {
+  background-color: black;
+  color: white;
+  /* height: 35px; */
+  margin-top: -1px;
+  text-align: center;
+  padding: 5px 0px;
+}
+
+.vc-orders-admin .vc-item-row {
+  background-color: black;
+  color: white;
+  height: 40px;
+  margin-top: -1px;
+  text-align: center;
+}
+
+.vc-order .vc-item-row .ip-ar-award-simple,
+.vc-orders-admin .ip-ar-award-simple {
+  color: #006400 !important;
+  margin: auto 0;
+}
+
+.vc-order .vc-item-row .ip-ar-triangle-exclamation,
+.vc-orders-admin .ip-ar-triangle-exclamation {
+  color: #a52a2a !important;
+  margin: auto 0;
+}
+
+.vc-order .vc-item-row .ip-ar-bolt,
+.vc-orders-admin .ip-ar-bolt {
+  color: #ff7f50 !important;
+  margin: auto 0;
+}
+
+.vc-order .vc-item-row button.btn.btn-primary:hover {
+  background-color: black;
+}
+
+.vc-order .vc-item-row button.btn.btn-primary {
+  border: none;
+  color: #ba7809 !important;
+  border-bottom-style: solid;
+  padding: 5px 10px;
+  background-color: #00000000 !important;
+}
+
+.vc-order .vc-footer {
+  height: 15px;
+  margin-top: -1px;
+  background-color: black;
+  border-bottom-right-radius: 10px;
+  border-bottom-left-radius: 10px;
+}
+
+.modal-title {
+  font-size: 16px;
+}
+
+
+.vc-products select {
+  width: 100% !important;
+}
+
+.vc-body-border button {
+  background-color: black;
+  color: #fff;
+  border: #a1a1a1 solid 1px;
+  border-radius: 5px;
+  padding: 5px 3px;
+  font-size: 10px;
+}
+
+.d-none {
+  display: none;
+}
+
+.vc-alert {
+  background-color: rgb(223, 28, 28);
+  /* background-color: rgb(29, 4, 255); */
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  display: none;
+  font-family: "VCA-font" !important;
+  font-size: 12px;
+  font-weight: bold;
+  position: fixed;
+  z-index: 999;
+  right: 10px;
+  top: 60px;
+  transition: all 1s linear;
+}
+
+
+.vc-limiter {
+  width: 100%;
+}
+
+.vc-container-table100 {
+  width: 100%;
+  min-height: 100vh;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.column1 {
+  text-align: center;
+  padding-right: 10px;
+}
+
+.vc-wrap-table100 {
+  width: 100%;
+}
+
+.vc-limiter table {
+  border-spacing: 1;
+  border-collapse: collapse;
+  background: #fffbfb;
+  border-radius: 10px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.vc-limiter table * {
+  position: relative;
+}
+
+.vc-limiter table thead tr {
+  height: 60px;
+  background: #36304a;
+}
+
+.vc-limiter table tbody tr {
+  height: 50px;
+}
+
+.vc-limiter table tbody tr:last-child {
+  border: 0;
+}
+
+.vc-limiter table td,
+.vc-limiter table th {
+  text-align: right;
+}
+
+.vc-limiter table td.l,
+.vc-limiter table th.l {
+  text-align: left;
+}
+
+.vc-limiter table td.c {
+  text-align: center;
+}
+
+.vc-limiter table td.r,
+.vc-limiter table th.r {
+  text-align: center;
+}
+
+
+.vc-limiter .table100-head th {
+  font-family: 'VCA-font';
+  font-size: 18px;
+  color: #fff;
+  line-height: 1.2;
+  font-weight: unset;
+}
+
+.vc-limiter tbody tr:nth-child(even) {
+  background-color: #f5f5f5;
+}
+
+.vc-limiter tbody tr {
+  font-family: 'VCA-font';
+  font-size: 15px;
+  color: #808080;
+  line-height: 1.2;
+  font-weight: unset;
+}
+
+.vc-limiter tbody tr:hover {
+  color: #555555;
+  background-color: #f5f5f5;
+  cursor: pointer;
+}
+
+.vc-t-Order h3,
+h3#product_name {
+  padding-top: 10px;
+  text-align: center;
+  font-size: 16px;
+  color: #ba7809;
+}
+
+.vc-mitem {
+  background-color: black;
+  color: #fff;
+  border-radius: 11px;
+  border: 1px solid sandybrown;
+  padding: 5px 10px;
+  z-index: 1;
+  position: relative;
+  margin-top: 10px;
+}
+
+.vc-mitem .vcmitemh {
+  background-color: aquamarine;
+  padding: 1px 10px;
+  margin-top: -5px;
+  margin-left: -10px;
+  margin-right: -10px;
+  border-top-right-radius: 11px;
+  border-top-left-radius: 11px;
+  color: #fff;
+  z-index: 3;
+  position: relative;
+}
+
+.vc-mitem .vcmitemh h4 {
+  font-size: 14px !important;
+}
+
+.vc-mitem .iconbg {
+  z-index: 2;
+  display: inline;
+  position: absolute;
+  left: 5px;
+  top: 55px;
+}
+
+.vc-mitem .vcmitemb {
+  margin-top: 5px;
+}
+
+.vc-mitem .vcmitemf {
+  position: relative;
+  bottom: -15px !important;
+}
+
+.vc-mitem .vcmitemf p {
+  font-size: 10px;
+}
+
+.vc-mitem .iconbg i[class^="ip-ar-"],
+.vc-mitem .iconbg i[class*=" ip-ar-"] {
+  font-size: 70px;
+  opacity: 0.3;
+}
+
+.modal-content {
+  color: #fff !important;
+  background-color: #000 !important;
+  z-index: 999;
+}
+
+.su p {
+  display: inline-flex;
+  margin-left: 3px;
+  margin-top: 5px;
+}
+
+.su span {
+  padding: 1px 5px;
+  width: 25px;
+  text-align: center;
+  justify-content: center;
+  border-radius: 3px;
+}
+
+.modal-backdrop.show {
+  z-index: -1;
+}
+
+body.rtl .elementor-28 .elementor-element.elementor-element-2694cb4 {
+  z-index: -2;
+}
+
+@media (max-width: 767px) {
+
+  .elementor-28 .elementor-element.elementor-element-5a96119:not(.elementor-motion-effects-element-type-background),
+  .elementor-28 .elementor-element.elementor-element-5a96119>.elementor-motion-effects-container>.elementor-motion-effects-layer {
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    z-index: -3;
+  }
+}
+
+.vc-Date {
+  margin-right: 10px;
+  font-size: 12px;
+}
+
+.vc-body-b .form-Order span#measure {
+  position: absolute;
+  color: #000;
+  margin-right: -40px;
+  margin-top: 9px;
+}
+
+.vc-form-Order .row,
+.vc-body .row {
+  padding-top: 10px;
+}
+
+p.total3 {
+  text-align: right;
+  margin-right: 20px;
+  margin-top: 5px;
+  font-size: 12px;
+}
