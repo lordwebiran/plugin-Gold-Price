@@ -1,6 +1,6 @@
 # Gold and Coin Order Plugin
 
-The Gold Price plugin is an extension designed for placing orders for coins and gold on WordPress websites.
+The Gold Price plugin is a WordPress extension designed for placing orders for coins and gold on WordPress websites.
 
 ## Features
 
@@ -9,9 +9,9 @@ The Gold Price plugin is an extension designed for placing orders for coins and 
 - **Capability to Add and Edit Order Statuses**
 - ...
 
-## photo
-![plugin-Gold-Price 1](https://s30.picofile.com/file/8470980168/Screenshot_2023_12_27_233440.png)
-![plugin-Gold-Price 2](https://s31.picofile.com/file/8470980176/Screenshot_2023_12_27_233528.png)
+## Screenshots
+![Screenshot 1](https://s30.picofile.com/file/8470980168/Screenshot_2023_12_27_233440.png)
+![Screenshot 2](https://s31.picofile.com/file/8470980176/Screenshot_2023_12_27_233528.png)
 
 ## Installation Guide
 
@@ -42,7 +42,7 @@ To use the plugin, go to the order management page in the WordPress dashboard an
 
 ## Contribution
 
-You can contribute to the development of the plugin and submit issues or new ideas through the [Issues](https://github.com/lordwebiran/VC-Gold-Price/issues) page.
+You can contribute to the development of the plugin and submit issues or new ideas through the [Issues](https://github.com/lordwebiran/plugin-Gold-Price/issues) page.
 
 ## License
 
@@ -52,4 +52,4 @@ This plugin is released under the MIT license.
 
 - [Website](https://viennaco.ir/)
 - [ViennaCo Radiant](https://viennaco.ir/)
-- [Plugin Download Page](https://github.com/lordwebiran/VC-Gold-Price/releases)
+- [Plugin Download Page](https://github.com/lordwebiran/plugin-Gold-Price/releases)
