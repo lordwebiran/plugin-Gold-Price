@@ -4,7 +4,7 @@
 
 Use this section to inform the public about versions that continue to receive security support.
 
-| Version | Support
+| Version | Support |
 | ------- ------------------ |
 | 1.0.x | :white_check_mark: |
 | 0.9.x | :x: |
