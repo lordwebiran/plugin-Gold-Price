@@ -10,7 +10,6 @@ The Gold Price plugin is an extension designed for placing orders for coins and 
 - ...
 
 ## photo
-
 ![plugin-Gold-Price 1](https://s30.picofile.com/file/8470980168/Screenshot_2023_12_27_233440.png)
 ![plugin-Gold-Price 2](https://s31.picofile.com/file/8470980176/Screenshot_2023_12_27_233528.png)
 
