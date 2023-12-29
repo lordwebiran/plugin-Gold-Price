@@ -1,38 +1,38 @@
-# سیاست امنیتی
+# Security policy
 
-## نسخه‌های پشتیبانی‌شده
+## Supported versions
 
-از این بخش برای اطلاع رسانی به مردم در مورد نسخه‌هایی که همچنان پشتیبانی امنیتی می‌شوند، استفاده کنید.
+Use this section to inform the public about versions that continue to receive security support.
 
-| نسخه  | پشتیبانی         |
-| ------- | ------------------ |
-| 1.0.x   | :white_check_mark: |
-| 0.9.x   | :x:                |
-| 0.8.x   | :white_check_mark: |
-| < 0.8   | :x:                |
+| Version | Support
+| ------- ------------------ |
+| 1.0.x | :white_check_mark: |
+| 0.9.x | :x: |
+| 0.8.x | :white_check_mark: |
+| < 0.8 | :x: |
 
-## گزارش یک آسیب‌پذیری
+## Report a vulnerability
 
-اگر یک آسیب‌پذیری را کشف کردید یا به عنوان توسعه‌دهنده می‌خواهید در بهبود امنیت پروژه کمک کنید، لطفاً مراحل زیر را دنبال کنید:
+If you discover a vulnerability or as a developer you want to help improve the security of the project, please follow the steps below:
 
-1. یک تیکت جدید در [Issues](https://github.com/lordwebiran/VC-Gold-Price/issues) بسازید.
-2. اطلاعات جزئیات را با دقت فراهم کنید تا بتوانیم به درستی به مشکل پاسخ دهیم.
-3. اطلاعات شما محرمانه نگه داشته می‌شود و در انتشار آسیب‌پذیری به شما اطلاع داده نخواهد شد.
+1. Create a new ticket in [Issues](https://github.com/lordwebiran/VC-Gold-Price/issues).
+2. Provide detail information carefully so that we can properly respond to the problem.
+3. Your information will be kept confidential and you will not be notified when a vulnerability is released.
 
-## نکات امنیتی
+## Security tips
 
-### تغییرات در نسخه‌ها
+### Changes in versions
 
-هر تغییر امنیتی در نسخه‌های جدید افزونه چه تأثیری بر نسخه‌های پشتیبانی‌شده دارد و آیا نیاز به به‌روزرسانی فوری دارد یا خیر.
+How any security changes in new plugin versions affect supported versions and whether they require an immediate update.
 
-### گزارش آسیب‌پذیری
+### Vulnerability report
 
-برای گزارش یک آسیب‌پذیری، یک تیکت جدید در صفحه [Issues](https://github.com/lordwebiran/VC-Gold-Price/issues) بسازید. لطفاً اطلاعات جزئیات را به دقت فراهم کنید.
+To report a vulnerability, create a new ticket on the [Issues](https://github.com/lordwebiran/VC-Gold-Price/issues) page. Please provide detail information carefully.
 
-### بهبود امنیت پروژه
+### Improve project security
 
-اگر به عنوان توسعه‌دهنده می‌خواهید در بهبود امنیت پروژه کمک کنید، لطفاً [راهنمای امنیتی](https://github.com/lordwebiran/VC-Gold-Price/security/policy) را مطالعه کنید.
+If you as a developer would like to help improve the project's security, please read [Security Guide](https://github.com/lordwebiran/VC-Gold-Price/security/policy).
 
-## لیسانس
+## Bachelor's degree
 
-این سیاست امنیتی تحت لایسنس [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) منتشر شده است.
+This security policy is published under the [Creative Commons Zero v1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/) license.
