@@ -1,14 +1,8 @@
 <?php
 /*
-<<<<<<< HEAD
 Plugin Name: افزونه ثبت سفارش گلد
 Description: این افزونه به شما این امکان را می‌دهد تا سفارش‌های خرید و فروش طلا و سکه را ثبت کنید.
-Version: 2.0.0 
-=======
-Plugin Name: افزونه ثبت سفاش سیلیس
-Description: این افزونه به شما این امکان را می‌دهد تا سفارش‌های خرید سیلیس را ثبت کنید.
-Version: 1.0.0
->>>>>>> 42a92569bd0fac042ff3137cf8b2e9e23be566fc
+Version: 2.0.0
 Author: پرتو گستر ویانا
 Author URI: https://viennaco.ir/
 Plugin URI: https://github.com/lordwebiran/Silica-Order
